@@ -26,22 +26,11 @@
 - [**Spotify Clone**](https://github.com/Pranaymeharkule/Spotify_Clone.git)  
   _UI-focused replica of Spotify built using HTML, CSS & Bootstrap._
 
-- [**SK Film Productions (UK)**](https://www.skfilmproductions.co.uk/)  
-  _Creative portfolio site with embedded media and responsive layout._
-
-- [**Get Epoxy Floor**](https://www.getepoxy.in/)  
-  _Business site with service highlights, gallery, contact form, and location map._
-
-- [**Shadow Monarch’s Code Review**](https://shadow-monarchs-code-review-frontend.onrender.com/)  
-  _AI-based code review tool powered by Gemini API using the MERN stack._
-
 ---
 
 ### 💻 Tech Stack
 
 **Frontend:** React.js, Redux, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, Bootstrap, TypeScript  
-**Backend:** Node.js, Express.js, JWT, REST APIs  
-**Database:** MongoDB  
 **Tools:** Git, GitHub, Figma, Postman, Vercel, VS Code  
 **Design:** Responsive Design, UI/UX Best Practices, Figma to Code Conversion
 
