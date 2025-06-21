@@ -44,17 +44,17 @@
 
 <div align="center">
 
- ![Stats](https://github-readme-stats.vercel.app/api?username=Mayuresh-Talewar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+ ![Stats](https://github-readme-stats.vercel.app/api?username=Pranaymeharkule&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 <img src="https://img.shields.io/badge/Team%20Lead-2%2B%20Organizations-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Projects%20Supervised-6%2B-success?style=for-the-badge&logo=vercel&logoColor=white" />
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayuresh-Talewar&layout=compact&theme=dark&hide_border=true" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranaymeharkule&layout=compact&theme=dark&hide_border=true" width="47%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mayuresh-Talewar&theme=tokyonight&hide_border=true" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Pranaymeharkule&theme=tokyonight&hide_border=true" width="95%" />
 
 <br/>
 
@@ -68,7 +68,7 @@
 
 ### 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuresh-talewar-06242223a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Pranaymeharkule-06242223a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mtalewar2002@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mayur20022)
 
