@@ -1,13 +1,13 @@
 <!-- Typing SVG Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Pranay+Meharkule;Front+End+Developer+%7C+UI%2FUX+Lover;Clean+Code+%7C+Fast+Web+Apps+%7C+Team+Player" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Pranay+Meharkule;Front+End+Developer+%7C+UI%2FUX;Clean+Code+%7C+Fast+Web+Apps+%7C+Team+Player" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🔹 About Me
 
-- 👨‍💻 Frontend-Focused Full Stack Developer (React.js, Node.js, MongoDB, Express.js)
+- 👨‍💻 Frontend-Focused Full Stack Developer (React.js)
 - 🎯 Passionate about building fast, user-friendly & scalable applications
 - 🧑‍💼 Frontend Intern @ Technology World Creater Pvt. Ltd.
 - 🎓 B.Tech in Industrial Internet of Things | Priyadarshini College of Engineering, Nagpur
