@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Intern-Technology%20World%20Creater-blueviolet?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/React.js%20Intern-Talentrise%2Technokrate Pvt Ltd-blueviolet?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Projects%20Completed-6%2B-green?style=flat-square&logo=vercel" />
   <img src="https://img.shields.io/badge/Open%20To-Remote%20%7C%20Onsite-lightblue?style=flat-square&logo=worldhealthorganization" />
 </p>
@@ -15,7 +15,7 @@
 
 I'm a **Frontend-Focused Full Stack Developer** who loves turning beautiful designs into responsive, scalable websites. Currently pursuing my **B.Tech in IIoT** at **Priyadarshini College of Engineering**, Nagpur.
 
-- 🔭 Currently working as a **Frontend Intern**  
+- 🔭 Currently working as a **React.Js**  
 - 🌱 Learning advanced **React.js**, **TypeScript**, and **Next.js**  
 - 🛠️ Focused on performance, accessibility, and UI/UX  
 - 🧠 Always curious, always building  
