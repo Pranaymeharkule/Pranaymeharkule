@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a **Frontend-Focused Full Stack Developer** who loves turning beautiful designs into responsive, scalable websites. Currently pursuing my **B.Tech in IIoT** at **Priyadarshini College of Engineering**, Nagpur.
+I'm a **React.js Frontend-Focused Full Stack Developer** who loves turning beautiful designs into responsive, scalable websites. Currently pursuing my **B.Tech in IIoT** at **Priyadarshini College of Engineering**, Nagpur.
 
 - 🔭 Currently working as a **React.Js**  
 - 🌱 Learning advanced **React.js**, **TypeScript**, and **Next.js**  
