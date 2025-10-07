@@ -1,78 +1,80 @@
-<!-- Hero Typing Header -->
+<!-- ✨ Animated Hero Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pranay+Meharkule!;Frontend+Developer+%7C+React+Specialist;Clean+Code+%7C+UI%2FUX+Focused+%7C+Team+Player" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Pranay+Meharkule+👋;React.js+Frontend+Developer+⚛️;UI%2FUX+Focused+%7C+Clean+Code+Lover+🎨;Turning+Ideas+Into+Interactive+Experiences+🚀" alt="Typing Animation" />
 </div>
 
+<!-- 💫 Glowing Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js%20Intern-Talentrise%2Technokrate Pvt Ltd-blueviolet?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Projects%20Completed-6%2B-green?style=flat-square&logo=vercel" />
-  <img src="https://img.shields.io/badge/Open%20To-Remote%20%7C%20Onsite-lightblue?style=flat-square&logo=worldhealthorganization" />
+  <img src="https://img.shields.io/badge/React.js%20Intern-Talentrise%20Technokrate%20Pvt%20Ltd-8A2BE2?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Projects%20Completed-6%2B-success?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Open%20To-Remote%20%7C%20Onsite-00BFFF?style=for-the-badge&logo=worldhealthorganization" />
 </p>
 
 ---
 
-## 🚀 About Me
+<!-- 🚀 About Me Section -->
+<h2 align="center">🚀 About Me</h2>
 
-I'm a **React.js Frontend-Focused Full Stack Developer** who loves turning beautiful designs into responsive, scalable websites. Currently pursuing my **B.Tech in IIoT** at **Priyadarshini College of Engineering**, Nagpur.
+<p align="center">
+I'm a <b>React.js Frontend-Focused Full Stack Developer</b> who loves crafting clean, responsive, and visually appealing web experiences.<br/>
+Currently pursuing <b>B.Tech in Industrial Internet of Things (IIoT)</b> at <b>Priyadarshini College of Engineering, Nagpur</b>.
+</p>
 
-- 🔭 Currently working as a **React.Js**  
-- 🌱 Learning advanced **React.js**, **TypeScript**, and **Next.js**  
-- 🛠️ Focused on performance, accessibility, and UI/UX  
-- 🧠 Always curious, always building  
-- 📍 Based in **Nagpur, India** | Open to relocation
-
----
-
-## 🏆 Achievements
-
-- ✅ Delivered **6+ projects**, including one for a **real-world client** in manufacturing & construction
-- 💼 **Built full-stack web platforms** with secure login, payment integrations & OTP features
-- ⚡ Maintained an active GitHub presence with **50+ commits** and **30+ PRs** in 2025
-- 🥇 Received the **GitHub Quickdraw Badge** for rapid contributions
-- 🎯 Built & deployed a **live MERN-based product** used by external users
+- 🔭 Currently working on **DukaanSe Business Platform** (React + Tailwind + REST APIs)  
+- 🌱 Learning **Next.js**, **TypeScript**, and **Redux Toolkit**  
+- ⚙️ Focused on **performance, accessibility, and clean architecture**  
+- 🎯 Strong foundation in **JavaScript (ES6+)**, **React.js**, and **UI/UX design systems**  
+- 📍 Based in **Nagpur, India** | Open to relocation or remote work  
 
 ---
 
-## 🌟 Featured Projects
+<!-- 🏆 Achievements -->
+<h2 align="center">🏆 Achievements</h2>
+
+- ✅ Delivered **6+ professional projects**, including a **live client project** in manufacturing & construction  
+- 💼 Built **full-stack React platforms** with secure login, Razorpay payment & OTP authentication  
+- ⚡ Improved UI performance by **30%** via lazy loading & component optimization  
+- 🧩 Collaborated with teams in **Agile sprints** for consistent on-time delivery  
+- 🎖️ Maintained **active GitHub contributions** with 50+ commits & 30+ PRs in 2025  
+
+---
+
+<!-- 🌟 Featured Projects -->
+<h2 align="center">🌟 Featured Projects</h2>
 
 ### [🌾 Technology Agriculture Creater](https://www.technologyagriculturecreater.com/)
-> Full MERN Stack Platform for Agricultural Services  
+> **Full MERN Stack Platform** for agricultural services  
 ✅ JWT Auth | Razorpay Payment Gateway | Fast2SMS OTP | Secure Routing
+
+---
 
 ### [🏋️ Gym Management System](https://github.com/Pranaymeharkule/GYM_MANAGMENT_SYSTEM.git)
 > Responsive dashboard with role-based login for gym facilities  
-Built using HTML, CSS, Bootstrap, JS
+🧩 Built using HTML, CSS, Bootstrap & JS — optimized for mobile and desktop
+
+---
 
 ### [🎵 Spotify Clone](https://github.com/Pranaymeharkule/Spotify_Clone.git)
 > UI-focused, pixel-perfect Spotify homepage using HTML & CSS  
-Great for frontend demos & prototyping
+🎨 Perfect for frontend demos & rapid UI prototyping
 
 ---
 
-## 🛠️ Tech Stack
+<!-- 🛠️ Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
-**Frontend**:  
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-**Tools & Platforms**:  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,git,github,vercel,figma,vscode,postman&theme=dark" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+<!-- 📊 GitHub Stats Section -->
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pranaymeharkule&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pranaymeharkule&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranaymeharkule&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br/><br/>
@@ -87,17 +89,23 @@ Great for frontend demos & prototyping
 
 ---
 
-## 📬 Let's Connect
+<!-- 🌊 Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=120&section=footer" />
+</p>
+
+<!-- 📬 Let's Connect -->
+<h2 align="center">📬 Let's Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranay-meharkule" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pranaymeharkule272005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Pranaymeharkule">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -105,5 +113,7 @@ Great for frontend demos & prototyping
 
 <p align="center">
   <b>“Consistency is more important than perfection.”</b><br/>
-  <em>— Keep shipping. Keep learning. Keep improving. 🚀</em>
+  <em>Keep shipping. Keep learning. Keep improving. 🚀</em>
 </p>
+
+<!-- ⚡ End of README -->
